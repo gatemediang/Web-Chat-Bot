@@ -1,6 +1,6 @@
 # 🤖 Website Chatbot - Capstone Project
 
-![Website Chatbot Hero](images/chatbot-hero.png)
+![Website Chatbot Hero](images/webhero.png)
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chat-anywebsite.streamlit.app/)
 
