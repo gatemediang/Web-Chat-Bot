@@ -2,6 +2,8 @@
 
 ![Website Chatbot Hero](images/chatbot-hero.png)
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chat-anywebsite.streamlit.app/)
+
 ## 📌 Project Overview
 
 **Website Chatbot** is an intelligent AI-powered application that allows users to interact with any website's content through a natural language conversational interface. Users can load any website URL, and the application will scrape and analyze its content, then answer questions about it using OpenAI's GPT-4 model.
